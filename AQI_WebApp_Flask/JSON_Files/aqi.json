@@ -1,0 +1,33 @@
+{
+  "status": "success",
+  "data": {
+    "city": "Kendale Lakes",
+    "state": "Florida",
+    "country": "USA",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        -80.407,
+        25.70816
+      ]
+    },
+    "current": {
+      "pollution": {
+        "ts": "2022-12-01T00:00:00.000Z",
+        "aqius": 21,
+        "mainus": "p2",
+        "aqicn": 7,
+        "maincn": "p2"
+      },
+      "weather": {
+        "ts": "2022-12-01T02:00:00.000Z",
+        "tp": 25,
+        "pr": 1019,
+        "hu": 73,
+        "ws": 3.91,
+        "wd": 87,
+        "ic": "10n"
+      }
+    }
+  }
+}
